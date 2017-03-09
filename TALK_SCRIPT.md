@@ -12,3 +12,4 @@ How the VISA's worked - getting residency first vs. work visa (the benefits of e
 When moving, what I would take over again and what I would buy there - container vs. cube
 Where I work now 
 Misc Questions
+
