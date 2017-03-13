@@ -10,11 +10,13 @@ So a bit about me. I was born in Cape Town, spent most of my teens and twenties 
 
 From a professional side I've been priveledged to work with some of the best software professionals in South Africa. Prior to moving to New Zealand I worked for Driven Alliance in a coaching role helping team's improve how they make software. I've also been involved in the local software community, having been on the committee of SUGSA for a year, I'm one of the original founders of the DeveloperUG, having started it about 7 years ago and also started DevConf last year with Rob who some of you may know.
 
-For the last 8 month's I've been living in Auckland in New Zealand. Only after moving over did I discover how many South African's actually live and work in New Zealand. At MYOB where I work I'm surrounded by South African's - I think out of about 30 people in my immediate vicinity at least 7 of them are South African.
+For the last 8 month's I've been living in Auckland in New Zealand. I work for a company called MYOB, which is product company developing software for the Accounting and Payroll Systems in Australia and New Zealand.
 
-I've have had several people from South Africa approach me over the last 8 months asking what it is like to move to New Zealand and what they should know. And that combined with the fact that there is a big recruiting drive at MYOB right now to find more talented people to join them I decided to put tonight together.
+Over the last few months I've have had several people from South Africa approach me asking what it is like to move to New Zealand and what they should know. 
 
-That said I'm not paid as a recruitor - my interest in promoting MYOB is purely to work with clever people and I'm going to tell you exactly what my experience has been like, both the positives and the negatives.
+That combined with the fact that combined with the fact that I'm in SA for a week for DevConf, I decided to put tonight together share my experiences and what we've learn't from the move.
+
+Now with that I want to tackle the elephant in the room. I'm not paid as a recruitor for MYOB - my primary aim of tonight it to share knowledge - I'm going to spend a bit of time at the end speaking about MYOB because they have paid for the room tonight and I believe it is a great place to work. That said, I'm going to tell it as it is both the positives and the negatives. 
 
 # What Lifestyle is like in NZ
 
@@ -48,7 +50,7 @@ Finally, if you are going to the city, be prepared to use public transport. Park
 
 That said, public transport is generally very good. In the city they have an extensive bus system, so you probably get around quicker by bus than by car and getting from urban areas to the city is also relatively easy during normal work hours as they have express busses, ferries and a reliable train system.
 
-How much does a bus cost? If you are travelling from out of town expect to pay about $3.60 per trip.
+How much does a bus cost? If you are travelling from out of town expect to pay about $3.15 per trip.
 
 For me we only own one car, which my wife uses. I go to work each day via bus, which I enjoy because it gives me time to read while travelling to work. It's costing me about $130 per month to use the public transport system.
 
@@ -76,9 +78,9 @@ The way the schooling system works currently is on a decile system. You go to sc
 
 Our son started school and the area we stayed in at the time had two schools - one rated decile 7 and the other rated decile 4. He ended up going to the decile 4 school and we were amazed at the facilities and just how great the teachers were. We were pleasantly surprised. Since then we have moved areas and so Daniel moved schools and he is now at a decile 6 school. We haven't been able to tell the difference in the standards, it's seemed pretty much the same.
 
-At his current school we pay a 'donation' of $XXX per year which is in essence the only contribution we make.
+At his current school we pay a 'donation' of $100 per year which is in essence the only contribution we make.
 
-We have found school uniforms were expensive. For Daniel's school uniform at his current school he paid $XXX
+We have found school uniforms were expensive. For Daniel's school uniform at his current school he paid $80 - $90
 
 ### Children and healthcare
 
@@ -96,7 +98,7 @@ So, so far everything is sounding great! Here's the first challenge we found, if
 
 On the plus side, Auckland is really an amazing place for children to grow up - the libraries are exceptional, they have daily activities for small children like Wiggle & Rhyme, reading time, Minecraft and in our local library they have 3D printing workshops with a 3D printer which you can use for free.
 
-In addition the playgrouns are amazing. Auckland playgrouns are designed for people of all ages. They generally have big tube slides, often they are themed. For instance in this playground this is a life size snakes and ladders game. There fox slides, climbing walls, swings, etc.
+In addition the playgrounds are amazing. Auckland playgrounds are designed for people of all ages. They generally have big tube slides, often they are themed. For instance in this playground this is a life size snakes and ladders game. There fox slides, climbing walls, swings, etc.
 
 For us this has probably had the biggest impact on our family. When we lived in South Africa we basically felt confined to complex and while there are a few great parks they are few and far between. In Auckland every neighborhood has a park - we spend most of summer outdoors at parks in the evenings, and the parks have things like free gas braais' to cook food and are generally very well maintained.
 
