@@ -134,6 +134,12 @@ So are there any general questions around lifestyle?
 
 Speak briefly about diversity.
 
+## Having a support structure
+
+Now I wouldn't be doing this justice unless I spoke about the biggest con of moving to Auckland. We have a great lifestyle, we really enjoy the many opportunities it has to offer yet really miss our immediate family. This photo is just my wife's family, I just couldn't find a photo for my side of the family. While it's easy to get along with associates at work you do miss your family. Skype, hangouts and all that stuff helps, but it isn't the same.
+
+We are also fairly lucky, me and my wife are both very active in our church, and moving to New Zealand we found a lot of fellowship in a local congregation of our church. That said, looking for a support structure is really important. You need to be active about it.
+
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Local Software Community
@@ -164,23 +170,56 @@ The upside is you have tons of diversity.
 
 With that of special interest is diversity of genders. New Zealand like South Africa has the same challenges of historically being a male dominated industry. There is a lot of focus on trying to make the work environment more attractive to women and encouraging women to go into software development.
 
+## Challenges in the Software Industry
+
+The challenges in Auckland on creating software are in many ways the same challenges we face in Johannesburg. 
+
+* There is the microservices craze - it seems like micro services has replaced all the software industries problems with new problems
+* Strong focus on test automation - in my team we are in a big drive to get to a continous delivery model. We have some great code, but we also have some really bad code that we have to still work with.
+* Agile is at different levels of implementation, I speak to some organizations that are doing amazing things, and some that just don't get it
+
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Looking for Work
 
 Right now there seems to be a growing demand for software developers and so getting work seems to be relatively easy.
 
-Historically, most companies don't make job offers without having met you first. For instance there is a Facebook channel for South African's wanting to move to New Zealand and a common theme for general work is that you had to have your CV in a certain format etc. Personally I didn't have that as a challenge, however I knew the people where I applied and that could have played a role.
+Historically, most companies don't make job offers without having met you first. For instance there is a Facebook channel for South African's wanting to move to New Zealand and a common theme for general work is that you had to have your CV in a certain format etc. 
+
+Personally I didn't have that as a challenge, however I knew the people where I applied and that could have played a role.
 
 My brother-in-law who is an accountant had a very different experience. He applied for work from South Africa and got very little interest. He then came over for 4 weeks to look for work and had a very different experience. Several of the companies that had turned him down initially when he applied from South Africa re-interviewed him and he eventually took a position at a company that had originally turned him down.
 
-That said, more and more companies are looking and interviewing software professionals remotely and trying to make it even more attractive to re-locate. For instance, at MYOB we have recently invested in our re-location program, when I applied for work 8 months ago, I covered the lion's share of the costs to re-locate including paying for a container to ship our stuff, paying for an agent to do the paper work and paying for flights to get over there. In total it probably cost me about in the region of R150K
+That said, more and more companies are looking and interviewing software professionals remotely and trying to make it even more attractive to re-locate. 
 
-Now, MYOB has upped what they offer to cover flights for your family to re-locate, etc. and I believe many other companies are looking at similar options.
+## Covering Relocation Costs
+
+When I applied for work 8 months ago, I covered the lion's share of the costs to re-locate including paying for a container to ship our stuff, paying for an agent to do the paper work and paying for flights to get over there. In total it probably cost me about in the region of R150K
+
+At MYOB, because we are trying to attract top talent world wide we have just adjusted a policy for people relocating so that before they leave they get
+
+* Direct economy flights, taxis and transfers for you and any immediate family that are relocating with you
+* Costs of any Visas or Work Permits   
+* Travel Insurance for medical and emergency situations
+* A Hotel stay for the night before you leave 
+ 
+And then when you arrive in New Zealand or Australia you get
+
+* Reasonable accommodation in a hotel or serviced apartment for 4-8 weeks
+* Car hire for up to 8 weeks
+* Reasonable costs associated with shipping personal effects
+* 5 days Paid Relocation Leave 
+* Reasonable costs relating to the relocation of pets which is actually quite a big deal, I don't have pets, I've heard of people who did take their pets over and it is expensive
+
+I'm aware of other companies who are looking at similar options.
+
+## Salary expectations
+
+In terms of salary expectations - while it really depends on what you bring to the table, a senior developer will earn in Auckland around the $100K mark. In Australia, you would get 9.5% superannuation on top of that. In New Zealand, you have to have residency before you get matching contribution to your pension.
 
 # Interview Process
 
-So, what was my interview process like? Well - keeping in mind that different organizations have different interviewing processes, I applied at two companies. Both interview processes were very similar. Let me talk you through how it went with MYOB. 
+So, what was my interview process like? Well - keeping in mind that different organizations have different interviewing processes, I applied at two companies. Both interview processes were very similar. Let me talk you through how it went with MYOB, and it was much the same at the other companies I applied at
 
 First thing I did was make contact with someone who already worked at MYOB. I had known Martin Cronje through the local community and he was already working at MYOB so I sent him an email with a copy of my CV. He put me in touch with a digital talent advisor who phoned me for a chat and went through some of the info on my CV.
 
@@ -240,31 +279,27 @@ I can't really talk you further down this process because this is where we are w
 
 # Working at MYOB
 
-The last part I would like to briefly talk about is where I work at which is MYOB. 
+The last part I would like to briefly talk about is where I work at, MYOB. 
 
-Since MYOB has made it possible for me to be here and for this venue to be made available I'm going to tell you a bit about them. I'm going to try and skip the sales pitch and give you a c
+I'm going to try and skip the sales pitch and give you a overall picture.
 
-MYOB stands for mind your own business and does largely payroll and accounting software for Australia and New Zealand. It also has development teams based in both New Zealand and Australia.
+MYOB stands for mind your own business - basically we do payroll and accounting software for Australia and New Zealand.
 
-MYOB is going through a transformation from long-standing Australian based software provider of desktop software to a cloud accounting solutions platform for small to mid-tier businesses in Australia and New Zealand.
+We have development teams based in both Australia and New Zealand. With a total head count of 1400 people, and approximately 250 engineers spread across Melbourne, Syndey, Auckland and Christchurh.
 
-My team works on a system called our Practice Online System, which is basically a portal for Accoutnants wanting to oversee the state of each of their clients businesses. Engineering across MYOB is broken up into some 35+ teams. For instance my team is working closely with a team in Melbourne around the practice online system, and it is not uncommon for me to pop over to Australia every few months.
+Over the last few years MYOB has been going through a transformation from an software provider of desktop software to a cloud accounting solutions platform for small to mid-tier businesses in Australia and New Zealand so while we have a lot of legacy systems, we also have a lot of new stuff.
 
-In Auckland in the Practice Online space we have a strong focus on Extreme Programming practices. Things like pair programming, Mob Programming, Test Driven Development are important for us and in generaly teams use practices like Scrum or Kanban as a framework to operate in.
+Generally at MYOB we have small teams of between 4 - 8 people. Teams are cross functional in the sense that you will have people with strong analysis, development and testing skills in a team. 
 
-I've found working at MYOB to be extremely satisfying. I'm working with some of the most talented engineers I have worked with up to now and we are given a lot of autonomy to figure out the best way to create software. That said, we are not perfect - sometimes we get things wrong and we are getting better with time.
+My team works on a system called our Practice Online System, which is a portal for Accoutnants wanting to oversee the state of each of their clients businesses across MYOB's accounting systems. We work closely with a team in Melbourne around the practice online system, so it is not uncommon for me or someone from my team to pop over to Australia every few months. And for instance the current tech stack we use in my team is C# for our backend services, Node as a proxy with React on the front end, so we generally are comfortable to a certain degree on Linux & Windows.
 
-We are currently growing our engineering capability, so if you are considering working in either New Zealand or Australia and would like to find out more about MYOB, I've got brochures at the back of the room which you can take which have more info about MYOB.
+In Auckland in the Practice Online space we have a strong focus on Extreme Programming practices. Things like pair programming, Mob Programming, Test Driven Development, test automation, software craftmanship are important for us and generaly teams use practices like Scrum or Kanban as a framework to operate in.
 
-We are looking for talented 
-* Business Analysts,
-* Developers & DevOps Engineers,
-* Quality Analysts  
-* Development Leads
-* Agile Coaches
-* UX & UX Reasearchers & Visual Designers
+I've found working at MYOB to be extremely satisfying. I'm working with some of the most talented engineers I have worked with up to now and we are given a lot of autonomy to figure out the best way to create software. 
 
-If you are interested in any of these positions or would just like to find out more please take a brochure, or even email me and I will put you in touch with a Digital Talent Advisor.
+That said, we are not perfect - sometimes we get things wrong. 
+
+If you are interested in finding out more about MYOB please take a brochure, or email me and I will make sure you are put in touch with a Digital Talent Advisor.
 
 Before we go to questions let me just finish off with the MYOB video.
 
