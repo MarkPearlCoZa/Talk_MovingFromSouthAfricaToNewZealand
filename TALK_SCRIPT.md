@@ -14,7 +14,7 @@ For the last 8 month's I've been living in Auckland in New Zealand. I work for a
 
 Over the last few months I've have had several people from South Africa approach me asking what it is like to move to New Zealand and what they should know. 
 
-That combined with the fact that combined with the fact that I'm in SA for a week for DevConf, I decided to put tonight together share my experiences and what we've learn't from the move.
+That combined with the fact that that I'm in SA for a week for DevConf, I decided to put tonight together share my experiences and what we've learn't from the move.
 
 Now with that I want to tackle the elephant in the room. I'm not paid as a recruitor for MYOB - my primary aim of tonight it to share knowledge - I'm going to spend a bit of time at the end speaking about MYOB because they have paid for the room tonight and I believe it is a great place to work. That said, I'm going to tell it as it is both the positives and the negatives. 
 
@@ -48,17 +48,17 @@ Finally, if you are going to the city, be prepared to use public transport. Park
 
 ### Buses & Public Transport
 
-That said, public transport is generally very good. In the city they have an extensive bus system, so you probably get around quicker by bus than by car and getting from urban areas to the city is also relatively easy during normal work hours as they have express busses, ferries and a reliable train system.
+Public transport in Auckalnd is generally very good. In the city they have an extensive bus system, so you probably get around quicker by bus than by car and getting from urban areas to the city is also relatively easy during normal work hours as they have express busses, ferries and a reliable train system.
 
 How much does a bus cost? If you are travelling from out of town expect to pay about $3.15 per trip.
 
-For me we only own one car, which my wife uses. I go to work each day via bus, which I enjoy because it gives me time to read while travelling to work. It's costing me about $130 per month to use the public transport system.
+For me we own one car, which my wife uses. I go to work each day via bus, which I enjoy because it gives me time to read while travelling to work. It's costing me about $130 per month to use the public transport system.
 
 ### Cars & Drivers Licenses
 
-A side mention is that second hand Japanese cars are very cheap in New Zealand, so if you are on a budget you can get second hand imported cars at really good prices. I've been told that this is because New Zealand is one of the few countries near Japan that doesn't have high import charges on second hand vehicles and is also a left hand drive, because Japan has strict vehicle regulations, once a vehicle reaches a certain age in Japan, it is cheaper to sell it and buy a new one than maintain it - and these older vehicles end up in New Zealand.
+A side mention is that second hand Japanese cars are very cheap in New Zealand, so if you are on a budget you can get second hand imported cars at really good prices. I've been told that this is because New Zealand is one of the few countries near Japan that doesn't have high import charges on second hand vehicles and is also a left hand drive country. Because Japan has strict vehicle regulations, once a vehicle reaches a certain age in Japan, it is cheaper to sell it and buy a new one than maintain it - and these older vehicles end up in New Zealand.
 
-You can drive in New Zealand for the first year using a valid South African driver license, once you have hit a year you are expected to get a New Zealand Drivers license, getting a NZ Drivers license if you already have a SA drivers license is really easy - you just need to take a eye test and fill in a form and the whole process usually takes 15 minutes to go through, and a wait of about a week before your drivers license arrives at your home via normal mail.
+You do not need an international drivers license to drive in New Zealand - you can use a valid South African driver license for the first year, once you have hit a year you are expected to get a New Zealand Drivers license, getting a NZ Drivers license if you already have a SA drivers license is really easy - you just need to take a eye test and fill in a form and the whole process usually takes 15 minutes to go through, and a wait of about a week before your drivers license arrives at your home via normal mail.
 
 ### Postal System
 
@@ -76,9 +76,9 @@ Children start school in NZ as soon as they turn 5. That means, if your child tu
 
 The way the schooling system works currently is on a decile system. You go to school typically in the area where you live. Schools are rated based on the socia-economic position of a schools student community. Schools in poorer areas get more funding from the Government than schools in areas that are wealthier. So a school rated decile 1 would be the poorest of the poor and would get substantial funding compared to a school in the decile 10 that would be the wealthiest areas. It's up to the school to do fund raising to make up the difference between what they get from Government and what they want to offer.
 
-Our son started school and the area we stayed in at the time had two schools - one rated decile 7 and the other rated decile 4. He ended up going to the decile 4 school and we were amazed at the facilities and just how great the teachers were. We were pleasantly surprised. Since then we have moved areas and so Daniel moved schools and he is now at a decile 6 school. We haven't been able to tell the difference in the standards, it's seemed pretty much the same.
+Our son started school and the area we stayed in at the time had two schools - one rated decile 7 and the other rated decile 4. He ended up going to the decile 4 school  because they could take him immeditely and we were amazed at the facilities and just how great the teachers were. We were pleasantly surprised. Since then we have moved areas and so Daniel has moved schools and he is now at a decile 6 school. We haven't been able to tell the difference in the standards, it's seemed pretty much the same.
 
-At his current school we pay a 'donation' of $100 per year which is in essence the only contribution we make.
+At his current school we pay a 'donation' of $100 per year which is in essence the only contribution we make for his schooling.
 
 We have found school uniforms were expensive. For Daniel's school uniform at his current school he paid $80 - $90
 
@@ -98,7 +98,7 @@ So, so far everything is sounding great! Here's the first challenge we found, if
 
 On the plus side, Auckland is really an amazing place for children to grow up - the libraries are exceptional, they have daily activities for small children like Wiggle & Rhyme, reading time, Minecraft and in our local library they have 3D printing workshops with a 3D printer which you can use for free.
 
-In addition the playgrounds are amazing. Auckland playgrounds are designed for people of all ages. They generally have big tube slides, often they are themed. For instance in this playground this is a life size snakes and ladders game. There fox slides, climbing walls, swings, etc.
+In addition the playgrounds are amazing. Auckland playgrounds are designed for people of all ages. They generally have big tube slides, often they are themed. For instance in this playground this is a life size snakes and ladders game. There are fox slides, climbing walls, swings, etc.
 
 For us this has probably had the biggest impact on our family. When we lived in South Africa we basically felt confined to complex and while there are a few great parks they are few and far between. In Auckland every neighborhood has a park - we spend most of summer outdoors at parks in the evenings, and the parks have things like free gas braais' to cook food and are generally very well maintained.
 
@@ -128,8 +128,6 @@ Auckland is a little different. Winter is very wet, it rains a lot, but there ar
 
 In terms of tempretaure. Before we moved to New Zealand we looked up the temperatures and it looked cold and it certainly is on the cold and wet side in Winter. That said, I was surprised to find out how pleasant lower 20's are to live in and how much warmer it was than I expected. 
 
-So are there any general questions around lifestyle?
-
 ## Divesity
 
 Speak briefly about diversity.
@@ -139,6 +137,8 @@ Speak briefly about diversity.
 Now I wouldn't be doing this justice unless I spoke about the biggest con of moving to Auckland. We have a great lifestyle, we really enjoy the many opportunities it has to offer yet really miss our immediate family. This photo is just my wife's family, I just couldn't find a photo for my side of the family. While it's easy to get along with associates at work you do miss your family. Skype, hangouts and all that stuff helps, but it isn't the same.
 
 We are also fairly lucky, me and my wife are both very active in our church, and moving to New Zealand we found a lot of fellowship in a local congregation of our church. That said, looking for a support structure is really important. You need to be active about it.
+
+So are there any general questions around lifestyle?
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -154,7 +154,7 @@ You get all sorts that attend these events. The meetups that I went to were gene
 
 I found the topics to be generally good and well prepared in all regards it seems like there is a passionate local developer community.
 
-One thing that was strange to see at the meetups was most of them give people an opportunity at the beginning of each event to pitch for work, and likewise for people to pitch for hiring. This is something that was very different from what I've seen in South Africa.
+One thing that was strange to see at the meetups was most of them give people an opportunity at the beginning of each event to pitch for work, and likewise for people to pitch for hiring. This is something that was very different from what I've seen in South Africa where that is a no no.
 
 In terms of technologies, it's much the same as South Africa. C#, Java, Node, Front End development, you name it. Also, wierdly enough I met several people who were employed as professional Delphi developers which I haven't encounterd in South Africa.
 
@@ -162,7 +162,7 @@ In terms of technologies, it's much the same as South Africa. C#, Java, Node, Fr
 
 Speaking about the demographics of the local software community. There is a mix of cultures, largely I've noticed Polish, French, Brazilian, South African & Indian nationalities in addition to Australians and local Kiwi's.
 
-I think this is largely because New Zealand is encouraging immigration for the IT Sector which makes it easy for people from other countries that have challenges to get over and work, the net result being we have diverse cultures.
+I think this is largely because New Zealand is encouraging immigration for the IT Sector which makes it easy for people from other countries that have challenges to get over and work, the net result being we have diverse cultures in the software community.
 
 In fact, in the team I am in we have people of the following descent : 1 Italian, 1 Pol, 2 Indians, 1 South African, 1 Singaporian, 1 Brazilian, 2 Kiwis and from what I can see this is certainly not an exception to the norm.
 
@@ -194,7 +194,7 @@ That said, more and more companies are looking and interviewing software profess
 
 ## Covering Relocation Costs
 
-When I applied for work 8 months ago, I covered the lion's share of the costs to re-locate including paying for a container to ship our stuff, paying for an agent to do the paper work and paying for flights to get over there. In total it probably cost me about in the region of R150K
+When I applied for work 8 months ago, I covered the lion's share of the costs to re-locate including paying for a container to ship our stuff, paying for an agent to do the paper work and paying for flights to get over there. In total it probably cost me in the region of R150K
 
 At MYOB, because we are trying to attract top talent world wide we have just adjusted a policy for people relocating so that before they leave they get
 
@@ -211,7 +211,7 @@ And then when you arrive in New Zealand or Australia you get
 * 5 days Paid Relocation Leave 
 * Reasonable costs relating to the relocation of pets which is actually quite a big deal, I don't have pets, I've heard of people who did take their pets over and it is expensive
 
-I'm aware of other companies who are looking at similar options.
+I'm aware of other companies who are looking at similar options. Some will expect you to get over on your own steam, others will provide a re-imbursement or relocation payment once you report to work.
 
 ## Salary expectations
 
@@ -227,7 +227,7 @@ I then got an email from her asking me to do a coding problem - after submitting
 
 A few days later there was an additioanl technical interview following which I had a team interview. Each interview took about an hour and because of the time zone differences most of the interviews happened between 11:00pm and the early hours of the morning.
 
-Following the team interview I got an verbal offer pending reference checks and visa approval. 
+Following the team interview I got a verbal offer pending reference checks and visa approval. 
 
 All in all the whole process took about two weeks from start to getting an offer.
 
